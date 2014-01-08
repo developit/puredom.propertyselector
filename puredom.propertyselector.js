@@ -12,7 +12,7 @@
 }(function(puredom) {
 	/** @exports exports as puredom.propertyselector */
 	var exports = {
-		VERSION : '1.1.0'
+		VERSION : '0.1.0'
 	};
 	
 	// speedhack
